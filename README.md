@@ -22,7 +22,6 @@ Here are some of the technologies and tools I work with:
 ---
 
 ### 🤝 Connect with me
-- 💼 LinkedIn: [Your Profile Link Here]
-- 📧 Email: [Your Public Email Here]
+- 📧 Email: geeaartraders19@gmai.com
 
 *“The best way to predict the future is to invent it.”*
